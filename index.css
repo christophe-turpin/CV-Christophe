@@ -12,7 +12,7 @@ header{
     padding-top: 50px;
 }
 
-#hright {
+#hright, #job {
     font-weight: bold;
     color: whitesmoke;
     text-shadow: -1px 0 teal, 0 1px teal, 1px 0 teal, 0 -1px teal;
