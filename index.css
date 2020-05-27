@@ -22,6 +22,16 @@ header{
     padding-top: 10px;
     margin: 0px;
 }
+
+#haut {
+    margin-bottom: 30px;
+}
+
+#bas {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+}
 #bodySection {
     margin-top: 10px;
     display: flex;
