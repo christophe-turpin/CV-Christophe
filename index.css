@@ -23,15 +23,6 @@ header{
     margin: 0px;
 }
 
-#haut {
-    margin-bottom: 30px;
-}
-
-#bas {
-    display: flex;
-    flex-flow: row nowrap;
-    justify-content: space-around;
-}
 #bodySection {
     margin-top: 10px;
     display: flex;
@@ -49,7 +40,5 @@ header{
     border-radius: 20px;
 }
 
-#formations {
-    margin: 0px;
-}
+
 
